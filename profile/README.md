@@ -5,7 +5,8 @@
 <h3 align="center">Human + Omni</h3>
 
 <p align="center">
-  Everyday digital companion for notes, expenses, photo storage and more
+  Everyday digital companion for notes, expenses, photo storage and more<br>
+  Building open source tools for developers along the way
 </p>
 
 <p align="center">
