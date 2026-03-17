@@ -22,4 +22,4 @@ Community-driven projects built as part of Homni and shared openly for developer
 
 | Project | Description |
 |---------|-------------|
-| [homni-sso](https://github.com/homni-app/homni-sso) | OAuth 2.1 SDK for pure Java |
+| [authgate-sdk](https://github.com/homni-app/authgate-sdk) | OAuth 2.1 SDK for pure Java |
