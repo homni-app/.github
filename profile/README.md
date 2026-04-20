@@ -23,4 +23,4 @@ Community-driven projects built as part of Homni and shared openly for developer
 | Project | Description |
 |---------|-------------|
 | [authgate-sdk-java](https://github.com/homni-app/authgate-sdk-java) | OAuth 2.1 SDK for pure Java |
-| [feature-toggle-backend-spring](https://github.com/homni-labs/feature-toggle-backend-spring) | Feature toggle backend service on Spring Boot |
+| [togli](https://github.com/homni-labs/togli) | Feature toggle platform |
